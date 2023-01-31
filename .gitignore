@@ -1,0 +1,3 @@
+node_modules/
+src/storage/logs/node.access.log
+src/storage/logs/node.error.log
